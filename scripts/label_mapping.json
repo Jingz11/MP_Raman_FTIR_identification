@@ -1,0 +1,3226 @@
+[
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Bamboo Bioplastic",
+    "standard_label": "Bamboo Bioplastic",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Cornstarch Bioplastic",
+    "standard_label": "Cornstarch Bioplastic",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Crystalized Polylactic Acid (CPLA)",
+    "standard_label": "Crystalized Polylactic Acid (CPLA)",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Flaxstic™",
+    "standard_label": "Flaxstic™",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Mater-Bi Bioplastic",
+    "standard_label": "Mater-Bi Bioplastic",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Nature-Flex NK™",
+    "standard_label": "Nature-Flex NK™",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "PLA Bioplastic",
+    "standard_label": "PLA Bioplastic",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Polyhydroxyalkanoate (PHA)",
+    "standard_label": "Polyhydroxyalkanoate (PHA)",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Polylactic Acid (PLA)",
+    "standard_label": "Polylactic Acid (PLA)",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "BLoP",
+    "modality": "ATR-FTIR",
+    "raw_label": "Sugarcane Bioplastic",
+    "standard_label": "Sugarcane Bioplastic",
+    "exclusion_reason": "bioplastic",
+    "mapping_note": "生物塑料，不进主模型，保留备查"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "ABS",
+    "standard_label": "ABS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "Acrylic",
+    "standard_label": "ACRYLIC",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": "信号极弱，无法可信识别"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "C",
+    "standard_label": "UNKNOWN_C",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": "含义不明，疑为颜色代码"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "CA",
+    "standard_label": "CA",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "Cotton",
+    "standard_label": "COTTON",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "EAA",
+    "standard_label": "EAA",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "EVA",
+    "standard_label": "EVA",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "Nylon",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PA",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PC",
+    "standard_label": "PC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PEA",
+    "standard_label": "PEA",
+    "exclusion_reason": "adhesive_or_coating",
+    "mapping_note": "poly(ethyl acrylate)，双面胶，光谱确认"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PEVA",
+    "standard_label": "PEVA",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PLA",
+    "standard_label": "PLA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PMMA",
+    "standard_label": "PMMA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PU",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "PVC",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "Polyester",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": "光谱确认为 PET 纤维，ATR 语境"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "R",
+    "standard_label": "UNKNOWN_R",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": "含义不明，疑为 Rubber"
+  },
+  {
+    "library": "FLOPP_FLOPPe",
+    "modality": "ATR-FTIR",
+    "raw_label": "SR",
+    "standard_label": "UNKNOWN_SR",
+    "exclusion_reason": "low_count",
+    "mapping_note": "仅 1 条，含义不明"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(01) LDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(02) HDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(03) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(04) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(05) PS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(06) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(07) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(08) PLA",
+    "standard_label": "PLA",
+    "exclusion_reason": "",
+    "mapping_note": "不在 ATR 主模型 6 类，但保留"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(09) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(10) HDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 01) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 03) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 05) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 07) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 08) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 10) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "ATR-FTIR",
+    "raw_label": "(insitu 12) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(01) LDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(02) HDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(03) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(04) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(05) PS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(06) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(07) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(08) PLA",
+    "standard_label": "PLA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(09) PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 01) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 02) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 03) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 04) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 05) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 07) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 08) PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 09) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 10) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "MicroPlastiX",
+    "modality": "Raman",
+    "raw_label": "(insitu 12) PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "subdomain=insitu"
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "ABS",
+    "standard_label": "ABS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "BPF",
+    "standard_label": "BPF",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "BR",
+    "standard_label": "BR",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "CA",
+    "standard_label": "CA",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "EPS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "FEP",
+    "standard_label": "FEP",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "FPM",
+    "standard_label": "FPM",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "HDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "LDPE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "Latex",
+    "standard_label": "Latex",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "NBR",
+    "standard_label": "NBR",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "P",
+    "standard_label": "P",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PA",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PBAT",
+    "standard_label": "PBAT",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PBS",
+    "standard_label": "PBS",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PC",
+    "standard_label": "PC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PCL",
+    "standard_label": "PCL",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PEEK",
+    "standard_label": "PEEK",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PEI",
+    "standard_label": "PEI",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PETE",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PETG",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PEX",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PFA",
+    "standard_label": "PFA",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PI",
+    "standard_label": "PI",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PLA",
+    "standard_label": "PLA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PMMA",
+    "standard_label": "PMMA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "POM",
+    "standard_label": "POM",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PPE",
+    "standard_label": "PPE",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PPO",
+    "standard_label": "PPO",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PPS",
+    "standard_label": "PPS",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PSA",
+    "standard_label": "PSA",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PTFE",
+    "standard_label": "PTFE",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PVA",
+    "standard_label": "PVA",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PVC",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "PVDF",
+    "standard_label": "PVDF",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "SBS",
+    "standard_label": "SBS",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "UHMW",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "algin",
+    "standard_label": "algin",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "beachcast white foam sheet",
+    "standard_label": "beachcast white foam sheet",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "blue fragment",
+    "standard_label": "blue fragment",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "bone",
+    "standard_label": "bone",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "calcium carbonate",
+    "standard_label": "calcium carbonate",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "cellulose",
+    "standard_label": "cellulose",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "charcoal",
+    "standard_label": "charcoal",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "chitin",
+    "standard_label": "chitin",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "clear plastic hollow sphere",
+    "standard_label": "clear plastic hollow sphere",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "collagen",
+    "standard_label": "collagen",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "dentin",
+    "standard_label": "dentin",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "drip irrigation tubing",
+    "standard_label": "drip irrigation tubing",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "green plastic mulch",
+    "standard_label": "green plastic mulch",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "keratin",
+    "standard_label": "keratin",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "myofibrillar protein",
+    "standard_label": "myofibrillar protein",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "nylon",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "strapping tape blue",
+    "standard_label": "strapping tape blue",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "strawberry container",
+    "standard_label": "strawberry container",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "Monterey_Bay_Raman",
+    "modality": "Raman",
+    "raw_label": "white and gray mask filter",
+    "standard_label": "white and gray mask filter",
+    "exclusion_reason": "ambiguous_label",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "acrylonitrile butadiene styrene",
+    "standard_label": "ABS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "nylon",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "poly (methyl methacrylate)",
+    "standard_label": "PMMA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polycarbonate",
+    "standard_label": "PC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyester",
+    "standard_label": "PES",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyethylene",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyethylene terephthalate",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyoxymethylene",
+    "standard_label": "POM",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": "不在 Raman 5 类目标，排除出主模型"
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polypropylene",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polystyrene",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polytetrafluoroethylene",
+    "standard_label": "PTFE",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": "不在 Raman 5 类目标，排除出主模型"
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyurethane",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "polyvinyl chloride",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "RaSPI_RaMPI",
+    "modality": "Raman",
+    "raw_label": "silicone",
+    "standard_label": "SILICONE",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": "不在 Raman 5 类目标，排除出主模型"
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "ABS",
+    "standard_label": "ABS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Acrylonitrile butadiene styrene",
+    "standard_label": "ABS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Cellulose",
+    "standard_label": "CELLULOSE",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Cellulose Acetate",
+    "standard_label": "CA",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Cellulose acetate",
+    "standard_label": "CA",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Cotton",
+    "standard_label": "COTTON",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Modal",
+    "standard_label": "MODAL",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Nylon",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Oxidized PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": "氧化为老化状态，聚合物类别不变"
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PBT",
+    "standard_label": "PBT",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PC",
+    "standard_label": "PC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PE",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PE-co-PP",
+    "standard_label": "PE_CO_PP",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PET",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PET:PC copolymer",
+    "standard_label": "PET_PC",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PMMA",
+    "standard_label": "PMMA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PP",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PS",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PS-PVC",
+    "standard_label": "PS_PVC",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PU",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "PVC",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyacrylonitrile",
+    "standard_label": "PAN",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyamide",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyamide Resin",
+    "standard_label": "PA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polycarbonate",
+    "standard_label": "PC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyester",
+    "standard_label": "PES",
+    "exclusion_reason": "",
+    "mapping_note": "Raman 语境，v3 决定继承"
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyethylene",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyethylene Terephthalate",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyethylene-vinyl acetate",
+    "standard_label": "PEVA",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polymethyl methacrylate",
+    "standard_label": "PMMA",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polypropylene",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polystyrene",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polysulfone",
+    "standard_label": "PSU",
+    "exclusion_reason": "special_polymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyurethane",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Polyvinylchloride",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Styrene/isoprene",
+    "standard_label": "STYRENE_ISOPRENE",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Styrene/isoprene copolymer",
+    "standard_label": "STYRENE_ISOPRENE",
+    "exclusion_reason": "copolymer",
+    "mapping_note": ""
+  },
+  {
+    "library": "SLoPP_SLoPPe",
+    "modality": "Raman",
+    "raw_label": "Tall Oil Rosin",
+    "standard_label": "TALL_OIL_ROSIN",
+    "exclusion_reason": "nonplastic",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "1_2_polybutadiene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "Wavenumber",
+    "standard_label": "HEADER_ROW",
+    "exclusion_reason": "header_row",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "acrylonitrile_butadiene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "acrylonitrile_butadiene_styrene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "algae laminaria sacharina",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "algae_desmarestia_viridis",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "algae_fucus_serratus",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "algae_laminaria_digita_and_hyperborea",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "alginic_acid_ sodium_salt",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "alkyd_varnish",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "amber",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "aramid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "black_broodcomb",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "broodcomb",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "broodcomb_once_brooded",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "butyl_methacrylate_isobutyl_methacrolate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose_acetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose_acetate_butyrate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose_propionate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose_triacetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cellulose_wipe",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "chitin_cancer_pagurus",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "chitin_crangon_antonia",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "chitin_from_crustacean_shells",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "cigarette_filter",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "coal",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "copolyamide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "copolyester",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "crangon _chitin_exuvie",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "epoxide_resin",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethyl_cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_acrylic_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_ethyl_acrylate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_methacrylic_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_propylene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_vinyl_acetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "ethylene_vinyl_alcohol",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_acetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_cocoanut",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_cotton_US_pima",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_cotton_combers",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_cotton_uzbekistan",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_flax",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_grass",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_hemp_fine",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_hemp_rough",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_indian_raw_cotton",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_jute",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_kapok",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_linen",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_mulberry_silk",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyactide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyamide_6",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyamide_6_(not)stretched",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyamide_6_P6.6",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyester",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyetheretherketone",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polypropylene",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polypropylene_dyed",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyvinyl_alcohol",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_polyvinylidene_fluoride",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_poplar_down",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_roasted_flax",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_silk_slubbing",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_thermoplastic_elastomere",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_turf",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_tussah_silk",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_urtica_dioica_L_conar_fibra",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_viscose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fibre_viscose_dyed",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_alpaca",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_angora_rabbit",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_camel",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_cat_european_shorthair",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_cow",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_dog",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_lama",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_mohair_angora_goat",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_red_deer",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_wild_boar",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_yak",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "fur_yak_bleached",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "honeycomb",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "honeycomb_freshly_removed",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "honeycomb_freshly_removed_with_nectar",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "honeycomb_middle_wall",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "honeycomb_top_bar",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "hydroxyethyl_cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "hydroxypropyl_cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "hydroxypropyl_methyl_cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "lahmian_medium_acrylic_paint",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "merino_scoured_wool_made_rough",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "methyl_cellulose",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "methyl_vinyl_ether_maleic_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "methyl_vinyl_ether_maleic_anhydride",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "n_vinylpyrrolidone_vinyl_acetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nitrile_rubber",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_11",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_12",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_6",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_6_(3)_ T",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_6_12",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_6_6",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "nylon_6_9",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "phenoxy_resin",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(1_butene)_isotactic",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(2_4_6_tribromostyrene)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(2_6_dimethyl_p_phenylene_oxide)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(2_hydroxyethyl_methacrylate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(4_4'_dipropoxy_2_2'_diphenyl_propane_fumarate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(4_methyl_1_pentene)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(acrylic_acid)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(butylene_terephthalate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(diallyl_isophthalate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(ethyl_methacrylate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(ethylene_glycol)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(ethylene_oxide)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(ethylene_terephthalate)",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(isobutyl_methacrylate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(methyl_methacrylate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(n_butyl_methacrylate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(p_phenylene_ether_sulphone)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(phenylene_sulfide)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(tetrafluoroethylene)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_acetate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_alcohol)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_butyral)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_chloride)",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_chloride)_carboxylated",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_formal)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinyl_stearate)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "poly(vinylidene_fluoride)",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyacetal",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyacrylamide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyacrylamide_carboxyl_modified",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyamide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyamide_6",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyamide_66",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyamide_resin",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polybuthylene_terephthalate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polycaprolactone",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polycarbonate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polychloroprene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyester",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyester_epoxide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyesterurethane",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyetherester",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyetherurethane",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene terephthalate",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_chlorinated",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_chlorosulfonated",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_foamed",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_high_density",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_low_density",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_low_density_linear",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_oxidized",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_terephtalate",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_wax",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyethylene_wax_oxidized",
+    "standard_label": "PE",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyhydroxybutyric_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyimide",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyisoprene_chlorinated",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polylactic_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polymaide_66",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polymethyl methacrylate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyoxymethylene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyphenylsulfone",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polypropylene",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polypropylene_isotactic",
+    "standard_label": "PP",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polystyrene",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polystyrene_expanded",
+    "standard_label": "PS",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polysulfone",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polytehylene_terephthalate",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polytehylene_terephthalate_amorphous",
+    "standard_label": "PET",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polytetrafluoroethylene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyurethane",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyurethane_acrylic_resin",
+    "standard_label": "PU",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyvinyl_alcohol",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyvinylchloride",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyvinylchloride_with_plasticizer",
+    "standard_label": "PVC",
+    "exclusion_reason": "",
+    "mapping_note": ""
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "polyvinylpyrrolidone",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "quartz_sand_beach",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "quartz_sand_lab",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "resin_dispersion",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "scoured wool_ not_made_rough",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_EPDM",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_Gardena_1124_large",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_Gardena_1124_small",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_Gardena_2824_large",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_Gardena_2824_medium",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "sealing_ring_Gardena_2824_small",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "silica_gel_lab",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "silicone_rubber",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "silicone_seal_reactor",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_acrylonitrile",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_allyl_alcohol",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_butadiene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_butyl_methacrylate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_ethylene_butylene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_isoprene",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_maleic_anhydride",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "styrene_maleic_anhydride_partial_methyl_ester",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "vinyl_chloride_vinyl_acetate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "vinyl_chloride_vinyl_acetate_hydroxypropyl_acrylate",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "vinyl_chloride_vinyl_acetate_maleic_acid",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "vinylidene_chloride_acrylonitrile",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "vinylidene_chloride_vinyl_chloride",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "windscreen_wiper_rubber",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wood_beech",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wood_glue",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wood_mahagoni",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wood_pine",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_cashmere_crossbred",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_cashmere_kasakhstan",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_cashmere_mongolia",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_raw_cashmere_afghanistan",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_raw_cashmere_mongolia",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_sheep_supersoft",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_slubbing_fine",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "wool_slubbing_rough",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  },
+  {
+    "library": "simple_plastics",
+    "modality": "ATR-FTIR",
+    "raw_label": "zein_purified",
+    "standard_label": "NOT_TARGET",
+    "exclusion_reason": "not_target",
+    "mapping_note": "simple_plastics 方案 B：非目标类别"
+  }
+]

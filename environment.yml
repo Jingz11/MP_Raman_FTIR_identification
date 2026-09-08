@@ -1,0 +1,8 @@
+name: polymer-transfer-reference
+channels:
+  - defaults
+dependencies:
+  - python=3.12.7
+  - pip
+  - pip:
+      - -r requirements.txt

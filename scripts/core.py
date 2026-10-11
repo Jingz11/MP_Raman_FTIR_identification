@@ -54,8 +54,13 @@ def percent_transmittance_to_absorbance(percent_t):
     return -np.log10(np.maximum(np.asarray(percent_t, dtype=float) / 100.0, 1e-4))
 
 
-def moving_average(values, window=7):
-    return pd.Series(np.asarray(values, dtype=float)).rolling(window, center=True, min_periods=1).mean().to_numpy(float)
+def moving_average(values, window=7, edge_padding=False):
+    values = np.asarray(values, dtype=float)
+    if edge_padding:
+        pad = window // 2
+        return np.convolve(np.pad(values, (pad, pad), mode="edge"),
+                           np.ones(window) / window, mode="valid")
+    return pd.Series(values).rolling(window, center=True, min_periods=1).mean().to_numpy(float)
 
 
 def als_baseline(values, lam=ALS_LAMBDA, p=ALS_P, iterations=ALS_ITERATIONS):
@@ -123,13 +128,15 @@ def preprocess_spectrum(axis, values, *, modality, representation="native_intens
             raise ValueError("percent-transmittance conversion applies to FTIR only")
         values = percent_transmittance_to_absorbance(values)
         conversion = "percent_transmittance_to_absorbance_floor_1e-4"
-    processed = moving_average(np.interp(target, axis, values), window=7)
+    processed = moving_average(np.interp(target, axis, values), window=7,
+                               edge_padding=(modality == "RAMAN"))
     baseline = "none"
     if modality == "RAMAN" and str(raman_workflow).lower() == "harmonized":
         processed = processed - als_baseline(processed)
         baseline = "ALS_lambda_1e5_p_0.01_iterations_10"
     processed = minmax(snv(processed))
-    return PreprocessingResult(target, processed, coverage, int(removed), conversion, "moving_average_7", baseline)
+    smoothing = "moving_average_7_edge_padding" if modality == "RAMAN" else "moving_average_7_partial_windows"
+    return PreprocessingResult(target, processed, coverage, int(removed), conversion, smoothing, baseline)
 
 
 class PLSDAClassifier(BaseEstimator, ClassifierMixin):
